@@ -1,0 +1,2 @@
+https://colab.research.google.com/drive/1OOjPOYRqMwx4Y52B7bX32aMcrltnzWQB   ---> just A as input feature
+https://colab.research.google.com/drive/1w8_Od7Zk_Ku_ikGsJbaWej6fA0orWcF3#scrollTo=s1dID31mbm-s   ---> A and isospin as input features
